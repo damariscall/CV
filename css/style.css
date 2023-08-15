@@ -1,0 +1,91 @@
+.perfil{
+    text-align: center;
+}
+.linea-encabezado {
+    background: silver;
+    color: #005677;
+    text-transform: uppercase;
+}
+
+.texto-perfil {
+    text-align: justify;
+}
+
+
+.items {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.lista-anio, .sub-lista{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.anio {
+    margin-bottom: 20px;
+}
+
+.sub-lista {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.texto-negrita {
+    font-weight: bold;
+}
+.espacio-izq {
+    margin-left: 78px;
+}
+footer {
+    text-align: center;
+    font-weight: bold;
+    background: #005677;
+    color: #ffffff;
+    padding: 8px;
+}
+
+.img-footer {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a {
+    color: #FFFFFF;
+    
+}
+/* index.html*/
+
+.fondo {
+    background-image: url('../img/programacion.png');
+    /*background-repeat: repeat-x; */
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-position: center top;
+    background-size: 300px;
+}
+
+h2{
+    font-style: Arial;
+    color: white;
+    text-align: center;
+    background-color:  #005677;
+    opacity: 0.8;
+}
+
+a.pie {
+    color: black;
+    background-color: white;
+}
+
+footer.pie {
+    color: black;
+    background:white ;
+    opacity: 0.5;
+}
+a.linkedin {
+    color: black;
+
+
+}
